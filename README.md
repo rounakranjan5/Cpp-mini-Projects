@@ -1,6 +1,6 @@
 C++ mini Projects:- 
 
--_Project 1_ 
+- _Project 1_ 
    - [X] **NUMBER GAME** : A program that generates a random number and asks the user to guess it. Provide feedback on whether the guess is too high or too low until the user guesses the correct number and display the total score.
    
 
